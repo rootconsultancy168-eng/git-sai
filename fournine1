@@ -27,7 +27,7 @@
             color: white;
             text-decoration: none;
             margin: 0 15px;
-            font-weight: bold;
+            font-weight:smaliild;
         }
 
         section {
@@ -39,12 +39,7 @@
             padding: 10px 20px;
             background-color: #007bff;
             border: none;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-
+            color: white; font-size: 16px; cursor: pointer; border-radius: 5px; }
         footer {
             background-color: #222;
             color: white;
@@ -75,7 +70,7 @@
     <button onclick="showMessage()">Click Me</button>
 </section>
 
-<footer>
+<foot>
     © 2026 My Website | All Rights Reserved
 </footer>
 
